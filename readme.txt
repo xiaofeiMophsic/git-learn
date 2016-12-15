@@ -1,2 +1,3 @@
 Git is a VCS.
-Git is free software
+Git is free software!
+Github is the most populary open-source community in the world.
